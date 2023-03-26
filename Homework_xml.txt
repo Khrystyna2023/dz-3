@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <university>Beckett University</university>
+  <city>Leeds</city>
+  <year>2023</year>
+  <student_information>
+    <first_name>Stephan</first_name>
+    <second_name>Tempelton</second_name>
+    <age>21</age>
+    <nationality>british</nationality>
+    <pass_exam>yes</pass_exam>
+  </student_information>
+  <student_information>
+    <first_name>Collin</first_name>
+    <second_name>Collins</second_name>
+    <age>19</age>
+    <nationality>scottich</nationality>
+    <pass_exam>no</pass_exam>
+  </student_information>
+  <family_status>optional</family_status>
+</root>

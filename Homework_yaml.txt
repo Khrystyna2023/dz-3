@@ -1,0 +1,20 @@
+---
+ university: Beckett University
+ city: Leeds
+ year: 2023
+ student_information: #dictionary
+  - 
+   first_name: Stephan
+   second_name: Tempelton
+   age: 21
+   nationality: british
+   pass_exam: true
+   family_status: optional
+
+skils: #список
+- active listening
+- presenting
+- collaboration
+- organization
+
+...
