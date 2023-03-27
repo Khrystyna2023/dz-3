@@ -18,6 +18,12 @@
       "pass_exam":"false"
     }
   ],
-  "family_status":"null"
+  "family_status":"null",
+  "skils":[
+     "active listening",
+     "presenting",
+     "collaboration",
+     "organization"
+  ]
 }
 
