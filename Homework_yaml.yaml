@@ -1,0 +1,21 @@
+university: Beckett University
+city: Leeds
+year: 2023
+student_information:
+  - first_name: Stephan
+    second_name: Tempelton
+    age: 21
+    nationality: british
+    pass_exam: yes
+
+  - first_name: Collin
+    second_name: Collins
+    age: 19
+    nationality: scottich
+    pass_exam: no
+family_status: null
+skils: 
+  - active listening
+  - presenting
+  - collaboration
+  - organization
